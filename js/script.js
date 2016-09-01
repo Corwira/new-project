@@ -1,3 +1,4 @@
+$(document).ready(function(){
 //wow.js init
 	wow = new WOW(
 	    {
